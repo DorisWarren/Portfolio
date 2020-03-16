@@ -13,7 +13,7 @@ const Availability = ({ hide }) => {
   const className = status
     ? `${styles.availability} ${styles.available}`
     : `${styles.availability}`
-  const html = status ? available : unavailable
+  const html = status ? unavailable : available
 
   return (
     !hide && (

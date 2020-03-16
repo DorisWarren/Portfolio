@@ -1,47 +1,38 @@
 {
   "basics": {
-    "name": "Matthias Kretschmann",
+    "name": "Doris Warren",
     "label": "Designer & Developer",
     "picture": "../src/images/avatar.jpg",
-    "email": "m@kretschmann.io",
+    "email": "doriswarren11@gmail.com",
     "website": "https://matthiaskretschmann.com",
     "summary": "",
     "profiles": [
       {
-        "network": "Blog",
-        "url": "https://kremalicious.com"
-      },
-      {
         "network": "Twitter",
-        "username": "kremalicious",
-        "url": "https://twitter.com/kremalicious"
+        "username": "Doriss_Warren",
+        "url": "https://twitter.com/Doriss_Warren"
       },
       {
         "network": "GitHub",
-        "username": "kremalicious",
-        "url": "https://github.com/kremalicious"
+        "username": "DorisWarren",
+        "url": "https://github.com/DorisWarren"
       },
       {
-        "network": "Dribbble",
-        "username": "kremalicious",
-        "url": "https://dribbble.com/kremalicious"
-      },
-      {
-        "network": "Keybase",
-        "username": "kremalicious",
-        "url": "https://keybase.io/kremalicious"
+        "network": "LinkedIn",
+        "username": "Doris Warren",
+        "url": "https://www.linkedin.com/in/doriswarren/"
       }
     ],
     "location": {
-      "city": "Berlin",
-      "countryCode": "DE"
+      "city": "Los Angeles",
+      "countryCode": "CA"
     }
   },
   "work": [
     {
-      "company": "Ocean Protocol Foundation",
-      "position": "Lead UI Designer & Developer",
-      "website": "https://oceanprotocol.com",
+      "company": "Streem",
+      "position": "Front-end Developer (Intern)",
+      "website": "https://streem.pro",
       "startDate": "2017-01-01",
       "summary": "Co-Founded the Ocean Protocol project and as a core developer leading the execution of [multiple user interfaces](/oceanprotocol) and core components.\n\nIn general, leading the UI design & development of Ocean Protocol's user interfaces, iterating on a components-based UI design system spanning all of Ocean Protocol's web properties. This also includes the conceptualization, execution and iteration of the creative and visual direction of the Ocean Protocol brand."
     },
