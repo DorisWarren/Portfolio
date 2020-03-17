@@ -43,16 +43,13 @@
     - AWS S3
 
 
-- title: IPDB
-  slug: /ipdb/
+- title: Github Getter
+  slug: /githubgetter/
   img: 'images/ipdb-01.png'
   description: >
     From 2015–2017 I was leading the UI design & development of all IPDB web properties and additionally iterated on the creative and visual direction of the IPDB brand.
 
     The main website is a static site built with Jekyll and a custom Gulp-based build pipeline in front of it. All design & development is embedded in a continuous deployment process via GitHub & Travis.
-
-    Branding and key visuals in collaboration with [Wojciech Hupert](https://twitter.com/wojciechhupert).
-
   techstack:
     - Sketch
     - Jekyll
