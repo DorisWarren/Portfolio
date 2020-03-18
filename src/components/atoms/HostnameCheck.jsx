@@ -34,10 +34,7 @@ export default class HostnameCheck extends PureComponent {
           <meta name="robots" content="noindex,nofollow" />
         </Helmet>
         <aside className={styles.hostnameInfo}>
-          <p>{`Hi there 👋. Please note that only the code and documentation of this
-          site are open source. But my logo and the combination of typography,
-          colors, and layout making up my brand identity are not. Don't just
-          clone, do a remix.`}</p>
+          <p></p>
         </aside>
       </>
     )

@@ -17,10 +17,10 @@
 
 .actions a {
     display: inline-block;
-    padding: 0 calc(var(--spacer) / 4);
+    /* padding: 0 calc(var(--spacer) / 4); */
     font-size: var(--font-size-small);
-    margin-left: calc(var(--spacer) / 2);
-    margin-right: calc(var(--spacer) / 2);
+    /* margin-left: calc(var(--spacer) / 2); */
+    /* margin-right: calc(var(--spacer) / 5); */
     margin-bottom: calc(var(--spacer) / 2);
     color: var(--text-color-light);
 }

@@ -30,9 +30,7 @@ export default function Vcard() {
       // so user knows what to expect when hovering the link before clicking
       href={meta.addressbook}
       onClick={handleAddressbookClick}
-    >
-      Add to addressbook
-    </a>
+    ></a>
   )
 }
 
@@ -67,11 +65,12 @@ export const constructVcard = async meta => {
   contact.set('fn', meta.name)
   contact.set('title', meta.label)
   contact.set('email', meta.email)
-  contact.set('nickname', 'kremalicious')
+  contact.set('nickname', 'doriswarren')
   contact.set('url', meta.url, { type: 'Portfolio' })
   contact.add('url', blog, { type: 'Blog' })
   contact.add('x-socialprofile', twitter, { type: 'twitter' })
   contact.add('x-socialprofile', github, { type: 'GitHub' })
+  
 
   const vcard = contact.toString('3.0')
 
