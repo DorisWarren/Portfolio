@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Link } from 'gatsby'
 import posed from 'react-pose'
 import { moveInBottom } from '../atoms/Transitions'
-import { ReactComponent as Logo } from '../../images/logo.svg'
+import { ReactComponent as Logo } from '../../images/butterfly.svg'
 import styles from './LogoUnit.module.css'
 import { useResume } from '../../hooks/use-resume'
 

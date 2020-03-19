@@ -7,6 +7,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    padding-left: 50px;
 }
 
 .title {
@@ -26,6 +27,8 @@
     display: inline-block;
     flex: 0 1;
     min-width: 2.5rem;
+    margin-left: 20px;
+   
 }
 
 .link,

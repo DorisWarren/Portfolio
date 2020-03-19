@@ -1,6 +1,6 @@
 - title: Streem
   slug: '/streem/'
-  img: 'images/streem.png'
+  img: 'images/streem1.png'
   description: >
     From August-Demcember of 2019 I interned as a Front-end Developer at [Streem](/streem/). During my time there, I was given the opportunity to redesign the UI for Streems call log. 
 
@@ -43,40 +43,40 @@
     - AWS S3
 
 
-- title: Github Getter
-  slug: /githubgetter/
-  img: 'images/github-getter-1.png'
-  description: >
-    From 2015–2017 I was leading the UI design & development of all IPDB web properties and additionally iterated on the creative and visual direction of the IPDB brand.
+# - title: Github Getter
+#   slug: /githubgetter/
+#   img: 'images/github-getter-1.png'
+#   description: >
+#     From 2015–2017 I was leading the UI design & development of all IPDB web properties and additionally iterated on the creative and visual direction of the IPDB brand.
 
-    The main website is a static site built with Jekyll and a custom Gulp-based build pipeline in front of it. All design & development is embedded in a continuous deployment process via GitHub & Travis.
-  techstack:
-    - Figma
-    - HTML
-    - SCSS
-    - JavaScript
+#     The main website is a static site built with Jekyll and a custom Gulp-based build pipeline in front of it. All design & development is embedded in a continuous deployment process via GitHub & Travis.
+#   techstack:
+#     - Figma
+#     - HTML
+#     - SCSS
+#     - JavaScript
  
 
-  links:
-    - title: GitHub
-      url: https://github.com/DorisWarren/Github-Getter
+#   links:
+#     - title: GitHub
+#       url: https://github.com/DorisWarren/Github-Getter
 
-- title: COVID-19 MAP STATS
-  slug: /biv/
-  img: images/biv-01.png
-  description: >
-    I designed & developed the website and a basic branding for the Berlin-based VC firm Berlin Innovation Ventures. The main website is a static site built with Jekyll and a custom Gulp-based build pipeline in front of it.
+# - title: COVID-19 MAP STATS
+#   slug: /biv/
+#   img: images/biv-01.png
+#   description: >
+#     I designed & developed the website and a basic branding for the Berlin-based VC firm Berlin Innovation Ventures. The main website is a static site built with Jekyll and a custom Gulp-based build pipeline in front of it.
 
-  techstack:
-    - Next.js
-    - React
-    - HTML
-    - SCSS
-    - JavaScript
+#   techstack:
+#     - Next.js
+#     - React
+#     - HTML
+#     - SCSS
+#     - JavaScript
 
-  links:
-    - title: Link
-      url: http://berlininnovation.vc
+#   links:
+#     - title: Link
+#       url: http://berlininnovation.vc
 
 
 
