@@ -8,6 +8,8 @@ const { name, website } = resume.basics
 
 require('dotenv').config()
 
+console.log(process.env)
+
 module.exports = {
   siteMetadata: {
     siteUrl: `${website}`
