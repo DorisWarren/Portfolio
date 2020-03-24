@@ -21,40 +21,6 @@ const query = graphql`
           url
           username
         }
-        location {
-          city
-          countryCode
-        }
-      }
-      education {
-        institution
-        area
-        studyType
-        startDate
-        endDate
-      }
-      languages {
-        language
-        fluency
-      }
-      skills {
-        name
-        level
-        keywords
-      }
-      work {
-        company
-        position
-        website
-        startDate
-        endDate
-        summary
-      }
-      awards {
-        title
-        date
-        awarder
-        summary
       }
     }
   }

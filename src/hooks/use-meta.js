@@ -16,11 +16,7 @@ const query = graphql`
         available
         unavailable
       }
-      gpg
-      addressbook
       typekitID
-      matomoUrl
-      matomoSite
       allowedHosts
     }
   }

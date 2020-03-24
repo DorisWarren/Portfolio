@@ -1,12 +1,11 @@
 {
-  "name": "@kremalicious/portfolio",
+  "name": "@doriswarren/portfolio",
   "description": "Portfolio thingy, built with Gatsby",
   "version": "0.1.0",
-  "homepage": "https://matthiaskretschmann.com",
-  "repository": "github:kremalicious/portfolio",
+  "homepage": "",
   "bugs": "https://github.com/kremalicious/portfolio/issues",
   "license": "MIT",
-  "author": "Matthias Kretschmann <m@kretschmann.io>",
+  "author": "Doris Warren",
   "scripts": {
     "start": "gatsby develop --host 0.0.0.0",
     "ssr": "npm run build && serve -s public/",
