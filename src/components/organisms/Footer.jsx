@@ -25,9 +25,9 @@ const FooterMarkup = ({ pkg, meta, year }) => (
 
     <p className={styles.actions}>
       <LazyVcard />
-      {/* <a className="u-key" href={meta.gpg}>
+      <a className="u-key" href={meta.gpg}>
         PGP/GPG key
-      </a> */}
+      </a>
       <a href={pkg.bugs}>Found a bug?</a>
     </p>
     <p className={styles.copyright}>
