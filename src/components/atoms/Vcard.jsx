@@ -70,6 +70,7 @@ export const constructVcard = async meta => {
   contact.add('url', blog, { type: 'Blog' })
   contact.add('x-socialprofile', twitter, { type: 'twitter' })
   contact.add('x-socialprofile', github, { type: 'GitHub' })
+  
 
   const vcard = contact.toString('3.0')
 
