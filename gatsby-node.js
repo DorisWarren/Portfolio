@@ -56,7 +56,7 @@ function truncate(n, useWordBoundary) {
 //     holder = {}
 //   }
 
-  // sort by pushed to, newest first
+// sort by pushed to, newest first
 //   repos = repos.sort((a, b) => b.pushed_at.localeCompare(a.pushed_at))
 
 //   return repos
