@@ -6,8 +6,8 @@
 
 .logo {
     display: block;
-    width: 3.5rem;
-    height: 3.5rem;
+    width: 2.5rem;
+    height: 2.5rem;
     fill: var(--text-color-light);
     font-weight: var(--font-weight-500);
     margin-bottom: calc(var(--spacer) / 2);
