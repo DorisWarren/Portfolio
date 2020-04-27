@@ -62,7 +62,7 @@ module.exports = {
         start_url: '/',
         background_color: '#e7eef4',
         theme_color: '#e7eef4',
-        icon: 'src/images/bird.svg',
+        icon: 'src/images/favicon-butterfly.png',
         display: 'standalone',
         cache_busting_mode: 'name',
         theme_color_in_head: false // dynamically set in ThemeSwitch
