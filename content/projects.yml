@@ -4,7 +4,7 @@
   description: >
     From August-Demcember of 2019 I interned as a Front-end Developer at [Streem](/streem/). During my time there, I was given the opportunity to redesign the UI for Streems call log. 
 
-    Additionally, I conceptualized, iterated and executed on the creative and visual direction of the new notes feature. As the one of the main frontfacing UI features of Streem, it serves as a sticky note to write out all details you need to remember while the pro and customer are streaming. 
+    Additionally, I conceptualized, iterated and executed on the creative and visual direction of the new notes feature. As one of the main UI features of Streem, it serves as a sticky note to write out all details you need to remember while the pro and customer are streaming. 
   links:
     - title: streem.pro
       icon: Compass
@@ -25,7 +25,7 @@
   description: >
     From June-July of 2019 I landed my first internship at [Lightspeed Systems](https://www.lightspeedsystems.com/). As a first project I helped iterate and build out a components-based UI design system for an internal tool known as Relay Support. 
 
-    Most web interfaces are single-page JavaScript applications built with React, pulling their data from JSON files and various micro services. 
+    Most web interfaces are single-page JavaScript applications built with React. 
 
   links:
     - title: lightspeedsystems.com
@@ -45,16 +45,14 @@
 
 # - title: Github Getter
 #   slug: /githubgetter/
-#   img: 'images/github-getter-1.png'
+#   img: 
 #   description: >
-#     From 2015–2017 I was leading the UI design & development of all IPDB web properties and additionally iterated on the creative and visual direction of the IPDB brand.
-
-#     The main website is a static site built with Jekyll and a custom Gulp-based build pipeline in front of it. All design & development is embedded in a continuous deployment process via GitHub & Travis.
+ 
 #   techstack:
 #     - Figma
 #     - HTML
 #     - SCSS
-#     - JavaScript
+#     - React
  
 
 #   links:
@@ -63,9 +61,9 @@
 
 # - title: COVID-19 MAP STATS
 #   slug: /biv/
-#   img: images/biv-01.png
+#   img: 
 #   description: >
-#     I designed & developed the website and a basic branding for the Berlin-based VC firm Berlin Innovation Ventures. The main website is a static site built with Jekyll and a custom Gulp-based build pipeline in front of it.
+#     I designed & developed the website and a basic branding. 
 
 #   techstack:
 #     - Next.js
@@ -76,7 +74,7 @@
 
 #   links:
 #     - title: Link
-#       url: http://berlininnovation.vc
+#       url: 
 
 
 
